@@ -54,7 +54,7 @@ sudo sysctl -w vm.max_map_count=262144
 
 ### Issues
 
-Find a bug? Want more features? Find something missing in the documentation? Let me know! Please don't hesitate to [file an issue](https://github.com/maliceio/elasticsearch/issues/new)
+Find a bug? Want more features? Find something missing in the documentation? Let me know! Please don't hesitate to [file an issue](https://github.com/Cyb3rChi3f/elasticsearch/issues/new)
 
 ### Credits
 
@@ -63,13 +63,13 @@ Production docs from https://stefanprodan.com/2016/elasticsearch-cluster-with-do
 
 ### CHANGELOG
 
-See [`CHANGELOG.md`](https://github.com/maliceio/elasticsearch/blob/master/CHANGELOG.md)
+See [`CHANGELOG.md`](https://github.com/Cyb3rChi3f/elasticsearch/blob/master/CHANGELOG.md)
 
 ### Contributing
 
-[See all contributors on GitHub](https://github.com/maliceio/elasticsearch/graphs/contributors).
+[See all contributors on GitHub](https://github.com/Cyb3rChi3f/elasticsearch/graphs/contributors).
 
-Please update the [CHANGELOG.md](https://github.com/maliceio/elasticsearch/blob/master/CHANGELOG.md) and submit a [Pull Request on GitHub](https://help.github.com/articles/using-pull-requests/).
+Please update the [CHANGELOG.md](https://github.com/Cyb3rChi3f/elasticsearch/blob/master/CHANGELOG.md) and submit a [Pull Request on GitHub](https://help.github.com/articles/using-pull-requests/).
 
 ### License
 
